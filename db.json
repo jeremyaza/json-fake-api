@@ -1,51 +1,11 @@
 {
-  "aprendizaje": [
+  "posts": [
     {
       "id": 1,
-      "titulo": "Título general 1",
-      "susbtemas": [
-        {
-          "id": 1,
-          "title": "Subtema 1",
-          "description": "Una pequeña descripción del subtema"
-        },
-        {
-          "id": 2,
-          "title": "Subtema 2",
-          "description": "Una pequeña descripción del subtema"
-        },
-        {
-          "id": 3,
-          "title": "Subtema 3",
-          "description": "Una pequeña descripción del subtema"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "titulo": "Título general 2",
-      "susbtemas": [
-        {
-          "id": 1,
-          "title": "Subtema 1",
-          "description": "Una pequeña descripción del subtema"
-        },
-        {
-          "id": 2,
-          "title": "Subtema 2",
-          "description": "Una pequeña descripción del subtema"
-        },
-        {
-          "id": 3,
-          "title": "Subtema 3",
-          "description": "Una pequeña descripción del subtema"
-        },
-        {
-          "id": 4,
-          "title": "Subtema 4",
-          "description": "Una pequeña descripción del subtema"
-        }
-      ]
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
