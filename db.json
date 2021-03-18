@@ -1,11 +1,102 @@
 {
-  "posts": [
+  "aprendizaje": [
     {
       "id": 1,
-      "title": "hello"
+      "titulo": "Título general 1",
+      "susbtemas": [
+        {
+          "id": 1,
+          "title": "Subtema 1",
+          "description": "Una pequeña descripción del subtema"
+        },
+        {
+          "id": 2,
+          "title": "Subtema 2",
+          "description": "Una pequeña descripción del subtema"
+        },
+        {
+          "id": 3,
+          "title": "Subtema 3",
+          "description": "Una pequeña descripción del subtema"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Título general 2",
+      "susbtemas": [
+        {
+          "id": 4,
+          "title": "Subtema 1.2",
+          "description": "Una pequeña descripción del subtema"
+        },
+        {
+          "id": 5,
+          "title": "Subtema 2.2",
+          "description": "Una pequeña descripción del subtema"
+        },
+        {
+          "id": 6,
+          "title": "Subtema 3.2",
+          "description": "Una pequeña descripción del subtema"
+        },
+        {
+          "id": 7,
+          "title": "Subtema 4.2",
+          "description": "Una pequeña descripción del subtema"
+        }
+      ]
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "subtemas": [
+    {
+      "id": 1,
+      "title": "Subtema 1",
+      "contenido": "Una pequeña descripción del subtema",
+      "url_widget": "https://widgets.judge0.com?widgetId=5B6a&theme=dark&language=es",
+      "url_vimeo": "https://player.vimeo.com/video/493683955"
+    },
+    {
+      "id": 2,
+      "title": "Subtema 2",
+      "contenido": "Una pequeña descripción del subtema",
+      "url_widget": "https://widgets.judge0.com?widgetId=5B6a&theme=dark&language=es",
+      "url_vimeo": "https://player.vimeo.com/video/493683955"
+    },
+    {
+      "id": 3,
+      "title": "Subtema 3",
+      "contenido": "Una pequeña descripción del subtema",
+      "url_widget": "https://widgets.judge0.com?widgetId=5B6a&theme=dark&language=es",
+      "url_vimeo": "https://player.vimeo.com/video/493683955"
+    },
+    {
+      "id": 4,
+      "title": "Subtema 1.2",
+      "contenido": "Una pequeña descripción del subtema",
+      "url_widget": "https://widgets.judge0.com?widgetId=Lk2E&theme=dark&language=es",
+      "url_vimeo": "https://player.vimeo.com/video/493676022"
+    },
+    {
+      "id": 5,
+      "title": "Subtema 2.2",
+      "contenido": "Una pequeña descripción del subtema",
+      "url_widget": "https://widgets.judge0.com?widgetId=Lk2E&theme=dark&language=es",
+      "url_vimeo": "https://player.vimeo.com/video/493676022"
+    },
+    {
+      "id": 6,
+      "title": "Subtema 3.2",
+      "contenido": "Una pequeña descripción del subtema",
+      "url_widget": "https://widgets.judge0.com?widgetId=Lk2E&theme=dark&language=es",
+      "url_vimeo": "https://player.vimeo.com/video/493676022"
+    },
+    {
+      "id": 7,
+      "title": "Subtema 4.2",
+      "contenido": "Una pequeña descripción del subtema",
+      "url_widget": "https://widgets.judge0.com?widgetId=Lk2E&theme=dark&language=es",
+      "url_vimeo": "https://player.vimeo.com/video/493676022"
+    }
+  ]
 }
