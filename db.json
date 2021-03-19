@@ -98,5 +98,122 @@
       "url_widget": "https://widgets.judge0.com?widgetId=Lk2E&theme=dark&language=es",
       "url_vimeo": "https://player.vimeo.com/video/493676022"
     }
+  ],
+  "ejercicios": [
+    {
+      "id": "1",
+      "name": "Array",
+      "level": "Facil",
+      "language": "Javascript",
+      "score": "10",
+      "description": "Ejericio de arrays"
+    },
+    {
+      "id": "2",
+      "name": "Ejericio2",
+      "level": "Dificil",
+      "language": "Javascript",
+      "score": "10",
+      "description": "Ejericio de ejemplo..."
+    },
+    {
+      "id": "3",
+      "name": "Ejercicio3",
+      "level": "Medio",
+      "language": "Python",
+      "score": "10",
+      "description": "Ejericio de ejemplo..."
+    },
+
+    {
+      "id": "4",
+      "name": "Ejercicio4",
+      "level": "Dificil",
+      "language": "JavaScript",
+      "score": "10",
+      "description": "Ejericio de ejemplo..."
+    },
+    {
+      "id": "5",
+      "name": "Ejercicio5",
+      "level": "Facil",
+      "language": "Javascript",
+      "score": "10",
+      "description": "Ejericio de ejemplo..."
+    },
+    {
+      "id": "6",
+      "name": "Ejercicio6",
+      "level": "Facil",
+      "language": "Python",
+      "score": "10",
+      "description": "Ejericio de ejemplo..."
+    },
+    {
+      "id": "7",
+      "name": "Ejercicio7",
+      "level": "Medio",
+      "language": "Python",
+      "score": "10",
+      "description": "Ejericio de ejemplo..."
+    }
+  ],
+  "ejercicios_details": [
+    {
+      "id": "1",
+      "name": "Array",
+      "description": "Ejercicio de arrays",
+      "inputs": "[]",
+      "tags": "js,array,test",
+      "outputs": "apple,banana,cherries"
+    },
+    {
+      "id": "2",
+      "name": "Ejericio2",
+      "description": "Ejercicio de prueba",
+      "inputs": "ninguna",
+      "tags": "js,test",
+      "outputs": "`[\n{name:'Padawan',\nage:'21'}]`"
+    },
+    {
+      "id": "3",
+      "name": "Ejericio3",
+      "description": "Ejercicio de prueba",
+      "inputs": "ninguna",
+      "tags": "js,test",
+      "outputs": "Hello, padawan"
+    },
+    {
+      "id": "4",
+      "name": "Ejercicio4",
+      "description": "Ejercicio de prueba",
+      "inputs": "ninguna",
+      "tags": "py,test",
+      "outputs": "'121'"
+    },
+    {
+      "id": "5",
+      "name": "Ejercicio5",
+      "description": "Ejercicio de prueba",
+      "inputs": "ninguna",
+      "tags": "js,test",
+      "outputs": "'Hola'"
+    },
+    {
+      "id": "6",
+      "name": "Ejercicio6",
+      "description": "Ejercicio de prueba",
+      "inputs": "ninguna",
+      "tags": "py,test",
+      "outputs": "🚀"
+    },
+    {
+      "id": "7",
+      "name": "Ejercicio7",
+      "description": "Ejercicio de prueba",
+      "inputs": "ninguna",
+      "tags": "py,test",
+      "outputs": "Nada"
+    }
   ]
 }
