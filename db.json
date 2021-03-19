@@ -156,6 +156,22 @@
       "language": "Python",
       "score": "10",
       "description": "Ejericio de ejemplo..."
+    },
+    {
+      "id": "8",
+      "name": "Ejercicio8",
+      "level": "Dificil",
+      "language": "Python",
+      "score": "10",
+      "description": "Ejercicio de ejemplo..."
+    },
+    {
+      "id": "9",
+      "name": "Ejercicio9",
+      "level": "Medio",
+      "language": "Javascript",
+      "score": "10",
+      "description": "Ejercicio de ejemplo..."
     }
   ],
   "ejercicios_details": [
@@ -214,6 +230,22 @@
       "inputs": "ninguna",
       "tags": "py,test",
       "outputs": "Nada"
+    },
+    {
+      "id": "8",
+      "name": "Ejercicio8",
+      "description": "Ejercicio de prueba",
+      "inputs": "ninguna",
+      "tags": "py,test",
+      "outputs": "[apple,Mario]"
+    },
+    {
+      "id": "9",
+      "name": "Ejercicio9",
+      "description": "Ejercicio de prueba",
+      "inputs": "ninguna",
+      "tags": "js,test",
+      "outputs": "'Hi'"
     }
   ]
 }
