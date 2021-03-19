@@ -104,7 +104,7 @@
       "id": "1",
       "name": "Array",
       "level": "Facil",
-      "language": "Javascript",
+      "language": "JavaScript",
       "score": "10",
       "description": "Ejericio de arrays"
     },
@@ -112,7 +112,7 @@
       "id": "2",
       "name": "Ejericio2",
       "level": "Dificil",
-      "language": "Javascript",
+      "language": "JavaScript",
       "score": "10",
       "description": "Ejericio de ejemplo..."
     },
@@ -137,7 +137,7 @@
       "id": "5",
       "name": "Ejercicio5",
       "level": "Facil",
-      "language": "Javascript",
+      "language": "JavaScript",
       "score": "10",
       "description": "Ejericio de ejemplo..."
     },
