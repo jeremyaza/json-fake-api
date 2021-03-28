@@ -247,5 +247,70 @@
       "tags": "js,test",
       "outputs": "'Hi'"
     }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/LgvcTC8/effect2.png",
+      "title": "Menu with water effect",
+      "description": "Menú que simula el efecto de una gota de agua al momento de pasar por los diferentes items",
+      "link": "https://menu-water-effect.vercel.app/"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/tz1sCBn/bg-github.jpg",
+      "title": "Music Player",
+      "description": "Reproductor de música que adopta un estilo denominado neomorfismo, para destacar las funcionalidades de los botones",
+      "link": "https://codepen.io/jeremyaza/full/bGpGpXW"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/RT4TMsW/Captura.png",
+      "title": "Base Apparel coming soon page",
+      "description": "Página web de proximamente, con diseño responsive para una tienda de ropa",
+      "link": "https://base-apparel-jeremy.netlify.app"
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/xjcrDxr/desktop-preview.jpg",
+      "title": "Article preview component",
+      "description": "Componente para la vista previa de un artículo de decoración de interiores",
+      "link": "https://preview-component.herokuapp.com/"
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/pWkRbqJ/Personal-portfolio.png",
+      "title": "Personal portfolio",
+      "description": "Portafolio personal, para mostrar mi información y proyectos realizados",
+      "link": "https://codepen.io/jeremyaza/full/BaKaWdv"
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/5Rvp6RM/Form-illustration.png",
+      "title": "Responsive form",
+      "description": "Formulario responsive para solicitar el pedido de una illustración",
+      "link": "https://codepen.io/jeremyaza/full/xxZNEdQ"
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/sjtdSTP/Technical-documentation-page.png",
+      "title": "Technical documentation page",
+      "description": "Página web de documentación técnica del lenguaje de JS",
+      "link": "https://codepen.io/jeremyaza/full/gOPVOro"
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/QMrkD5R/Landing-page.png",
+      "title": "Product landing page",
+      "description": "Landing page de un producto digital",
+      "link": "https://codepen.io/jeremyaza/full/mdVZBzm"
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/vLfRqd6/faq.png",
+      "title": "FAQ component",
+      "description": "Componente responsive para mostrar las preguntas frecuentes de los usuarios",
+      "link": "https://faq-card.herokuapp.com/"
+    }
   ]
 }
