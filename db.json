@@ -2,102 +2,48 @@
   "aprendizaje": [
     {
       "id": 1,
-      "titulo": "Título general 1",
+      "titulo": "Estructuras de Datos",
       "susbtemas": [
         {
           "id": 1,
-          "title": "Subtema 1",
-          "description": "Una pequeña descripción del subtema"
+          "title": "Array",
+          "description": "Un array es una manera de poder guardar datos del mismo tipo o clase"
         },
         {
           "id": 2,
-          "title": "Subtema 2",
-          "description": "Una pequeña descripción del subtema"
+          "title": "Linked structures",
+          "description": "Los pointers son los encargados de mantener los “enlaces” entre valores de modo que es posible tener una secuencia de valores todos enlazados por pointers."
         },
         {
           "id": 3,
-          "title": "Subtema 3",
-          "description": "Una pequeña descripción del subtema"
+          "title": "Linked lists",
+          "description": "Una lista vinculada es una estructura de datos que consiste en un grupo de nodos que en conjunto representan una secuencia."
         }
       ]
-    },
-    {
-      "id": 2,
-      "titulo": "Título general 2",
-      "susbtemas": [
-        {
-          "id": 4,
-          "title": "Subtema 1.2",
-          "description": "Una pequeña descripción del subtema"
-        },
-        {
-          "id": 5,
-          "title": "Subtema 2.2",
-          "description": "Una pequeña descripción del subtema"
-        },
-        {
-          "id": 6,
-          "title": "Subtema 3.2",
-          "description": "Una pequeña descripción del subtema"
-        },
-        {
-          "id": 7,
-          "title": "Subtema 4.2",
-          "description": "Una pequeña descripción del subtema"
-        }
-      ]
-    }
+    }, 
   ],
   "subtemas": [
     {
       "id": 1,
-      "title": "Subtema 1",
-      "contenido": "Una pequeña descripción del subtema",
+      "title": "Array",
+      "contenido": "Arrays ó arreglos son estructuras de datos de tamaño fijo de modo que cada elemento puede ser eficientemente ubicado por su index (índice) ó dirección. Exactamente como lo vimos en el ejemplo anterior un array tiene una tamaño fijo y una dirección (index) con la cual podemos localizar de forma rápida un elemento en el arreglo, de modo que podemos apuntar a un elemento en el array de la siguiente forma: array[index], donde array es el nombre de nuestra estructura, seguida de dos “corchetes” que abren y cierran, donde especificamos el index que deseamos apuntar.",
       "url_widget": "https://widgets.judge0.com?widgetId=5B6a&theme=dark&language=es",
       "url_vimeo": "https://player.vimeo.com/video/493683955"
     },
     {
       "id": 2,
-      "title": "Subtema 2",
-      "contenido": "Una pequeña descripción del subtema",
+      "title": "Linked structures",
+      "contenido": "La magia de las estructuras enlazadas es dada por los pointers o punteros, que como su nombre lo indica apuntan a una dirección de memoria donde se encuentra ubicado un valor. Los pointers son los encargados de mantener los “enlaces” entre valores de modo que es posible tener una secuencia de valores todos enlazados por pointers. Si ponemos atención a la definición de los pointers podemos deducir que los valores no necesariamente tienen que estar localizados en memoria uno después del otro como en le caso de los arrays que son contiguamente asignados, por lo que podemos tener los valores ubicados en distintas localidades de la memoria y aún así representar un colección de valores consecutivos.",
       "url_widget": "https://widgets.judge0.com?widgetId=5B6a&theme=dark&language=es",
       "url_vimeo": "https://player.vimeo.com/video/493683955"
     },
     {
       "id": 3,
-      "title": "Subtema 3",
-      "contenido": "Una pequeña descripción del subtema",
+      "title": "Linked lists",
+      "contenido": "Una lista enlazada es un tipo de estructura dinámico que nos permite almacenar datos de forma secuencial, pero en distintos puntos de la memoria de nuestro computador. ",
       "url_widget": "https://widgets.judge0.com?widgetId=5B6a&theme=dark&language=es",
       "url_vimeo": "https://player.vimeo.com/video/493683955"
     },
-    {
-      "id": 4,
-      "title": "Subtema 1.2",
-      "contenido": "Una pequeña descripción del subtema",
-      "url_widget": "https://widgets.judge0.com?widgetId=Lk2E&theme=dark&language=es",
-      "url_vimeo": "https://player.vimeo.com/video/493676022"
-    },
-    {
-      "id": 5,
-      "title": "Subtema 2.2",
-      "contenido": "Una pequeña descripción del subtema",
-      "url_widget": "https://widgets.judge0.com?widgetId=Lk2E&theme=dark&language=es",
-      "url_vimeo": "https://player.vimeo.com/video/493676022"
-    },
-    {
-      "id": 6,
-      "title": "Subtema 3.2",
-      "contenido": "Una pequeña descripción del subtema",
-      "url_widget": "https://widgets.judge0.com?widgetId=Lk2E&theme=dark&language=es",
-      "url_vimeo": "https://player.vimeo.com/video/493676022"
-    },
-    {
-      "id": 7,
-      "title": "Subtema 4.2",
-      "contenido": "Una pequeña descripción del subtema",
-      "url_widget": "https://widgets.judge0.com?widgetId=Lk2E&theme=dark&language=es",
-      "url_vimeo": "https://player.vimeo.com/video/493676022"
-    }
   ],
   "ejercicios": [
     {
