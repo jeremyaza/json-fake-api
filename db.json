@@ -20,7 +20,7 @@
           "description": "Una lista vinculada es una estructura de datos que consiste en un grupo de nodos que en conjunto representan una secuencia."
         }
       ]
-    }, 
+    }
   ],
   "subtemas": [
     {
@@ -43,7 +43,7 @@
       "contenido": "Una lista enlazada es un tipo de estructura dinámico que nos permite almacenar datos de forma secuencial, pero en distintos puntos de la memoria de nuestro computador. ",
       "url_widget": "https://widgets.judge0.com?widgetId=5B6a&theme=dark&language=es",
       "url_vimeo": "https://player.vimeo.com/video/493683955"
-    },
+    }
   ],
   "ejercicios": [
     {
